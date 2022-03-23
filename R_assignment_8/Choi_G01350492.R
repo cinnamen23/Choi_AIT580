@@ -40,10 +40,10 @@ print(a)
 
 # h. Find the mean, median, mode, standard deviation and frequency distribution of EnvironmentSatisfaction for males and females separately. (Hint: For frequency distribution use table() function (10 points)
 library(dplyr)
-data%>%
+su<-data%>%
   group_by(Gender)%>%
   summarise(Mean=mean(EnvironmentSatisfaction), Median=median(EnvironmentSatisfaction),Mod=mode(EnvironmentSatisfaction), Std=sd(EnvironmentSatisfaction))
-
+print(su)
 
 
 mfreq=table(subset(data,Gender=='Male',select = c(EnvironmentSatisfaction))$EnvironmentSatisfaction)
@@ -55,17 +55,17 @@ print(ffreq)
 
 #Part2
 #1. Identify data types for each attribute in the dataset (5 points)
-class(data1$Years)
-class(data1$StSalary)
-class(data1$Gender)
-class(data1$Degree)
+print(class(data1$Years))
+print(class(data1$StSalary))
+print(class(data1$Gender))
+print(class(data1$Degree))
 #2. Produce a summary statistic for each attribute in the dataset (5 points)
 summary(data1)
 #3. Produce visualizations for each attribute (Hint: use hist() function) (5 points)
-hist(data1$Years)
-hist(data1$StSalary)
-hist(data1$Gender)
-hist(data1$Degree)
+print(hist(data1$Years))
+print(hist(data1$StSalary))
+print(plot(data1$Gender,main='Gender'))
+print(plot(data1$Degree,main='Degree'))
 #4. Display the relationship between
 
   #a. Years of Experience and Starting Salary for all employees (5 points)
@@ -84,7 +84,7 @@ hist(data1$Degree)
   
 #5. Find the correlation between Starting Salary and Years of Experience? (5 points)
   attach(data1)
-  cor(Years,StSalary,method='pearson')
+  print(cor(Years,StSalary,method='pearson'))
   
   #a. Is the correlation different for each gender? (5 points)
   library(dplyr)
