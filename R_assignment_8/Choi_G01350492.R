@@ -5,7 +5,7 @@
 
 rm(list=ls())
 
-data <- read.csv('~/git/Choi_AIT580/data/EmployeeAttrition.csv')
+data <- read.csv('~/git/data/EmployeeAttrition.csv') #error : cannot open file 'C:/Users/Simon/Documents/git/data/EmployeeAttrition.csv': No such file or directory
 data <- read.csv('EmployeeAttrition.csv')
 data1 <- read.csv('Acme.csv')
 
