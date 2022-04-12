@@ -1,0 +1,26 @@
+---
+title: "Assignment11"
+author: "Seunggyu"
+date: "4/12/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+https://joinyaa.com/guides/used-car-price-trends-for-2022/
+https://joinyaa.com/wp-content/uploads/2022/03/march-2022-used-car-prices-980x555.png
+
+## the example of distortion or unnecessary detail in a visualization
+Qa:
+In the above site, author Zach Shefskas uses 6 graphs to explain the used car market by dividing it into two types of cars and SUVs.
+First of all, in the case of the first graph, four legends are used. Black: 2-8 Used car price change ratio (2020/2021) Blue: General car price change ratio (2020/2021) Orange: Truck and SUV price change ratio (2020/2021) Gray: 2-8 Used car price change ratio ( 2017/2019) as a line graph according to timeline.
+
+Qb:
+The problem in the first graph is that the values ​​are too dense on the x-axis. It is recommended to increase the number of bins to improve readability.
+Also, a different period is set for one legend from other legends. For the gray legend, the span is a total of three years 2017-2019, but for the spans of the other categories the span is different, with a total period of two years 2020-2021.
+Correction is required by applying all same ranges together.
+
+
