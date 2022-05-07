@@ -10,7 +10,7 @@ permalink:        pretty
 title:            AIT 580 Final Project
 tagline:          'A Jekyll theme'
 #description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description:      'approaching disaster effects through overall statistical analysis throughout the east side of the United States with <a href="https://www.noaa.gov/" target="_blank">NOAA</a> data.'
+description:      'approaching disaster effects through overall statistical analysis over the east side of the U.S with <a href="https://www.noaa.gov/" target="_blank">NOAA</a> data.'
 url:              http://hyde.getpoole.com
 baseurl:          '/Choi_AIT580/'
 
