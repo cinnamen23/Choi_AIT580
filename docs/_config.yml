@@ -1,10 +1,10 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:            Hyde
@@ -13,6 +13,8 @@ description:      'A brazen two-column <a href="http://jekyllrb.com" target="_bl
 url:              http://hyde.getpoole.com
 baseurl:          /
 
+gems: [jekyll-gist]
+gems: [jekyll-paginate]
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
