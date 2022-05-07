@@ -12,7 +12,7 @@ tagline:          'A Jekyll theme'
 #description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 description:      'approaching through overall statistical analysis and various visualization of disaster effects throughout the east side of the United States with <a href="https://www.noaa.gov/" target="_blank">NOAA</a> data.'
 url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl:          '/Choi_AIT580/'
 
 gems: [jekyll-gist]
 gems: [jekyll-paginate]
