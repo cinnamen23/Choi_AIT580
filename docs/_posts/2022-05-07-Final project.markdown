@@ -69,7 +69,7 @@ The dataset was extracted from the original Storm Event Bulk Data in NOAA’s St
 
   Based on this visualization, it can be observed that the months with the highest frequency of storm events are June and July, with June being the higher of the two months. Additionally, the latter half of the year tends to have more occurrence of storm events compared to the first half.  
   The data related to the number of events according to states is visualized in the following interactive map and graph:
-  <iframe src="assets/map.html" height="600px" width="100%" style="border:none;"></iframe>
+  <iframe src="assets/map.html" height="800px" width="100%" style="border:none;"></iframe>
 
 
   In this visualization, a steady increase trend is observed in the of number of storm event occurrence in each state, with the number of storm events rising as time progresses. However, this rate of increase is not constant, a sudden increase in number of events is observed in the plot for Florida, Georgia, New York, North Carolina, and Virginia around the year 1995. Using k-means clustering technique with k = 2, it is evident that the number of events according to year separates into 2 distinct clusters.
