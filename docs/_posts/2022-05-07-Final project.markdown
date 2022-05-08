@@ -40,11 +40,11 @@ categories: jekyll update
 
 <h4>Software</h4> 
 
-  Operating System: Microsoft Windows 10 and Mac OS  
+  Operating System: Microsoft Windows 10   
 
-  Tools: Hadoop (Hadoop integrated systems), Mongo DB, RStudio, Tableau, Python IDE, Colab 
+  Tools: RStudio, Visual studio code
 
-  Language: R, Python, SQL, MQL 
+  Language: R
 
     
 
