@@ -3,6 +3,7 @@ layout: post
 title:  "AIT580 Projetct"
 Author: Tuan Nguyen, Seunggyu Choi
 categories: jekyll update
+
 ---
 
 ## Introduction
@@ -60,7 +61,7 @@ The dataset was extracted from the original Storm Event Bulk Data in NOAA’s St
   This analysis of trend of storm events for the East Coast in period of 1980 to 2021 is divided into 2 smaller parts: General trend of storm events and possible explanations, Difference in number of events based on state. 
 
 - a. General trend of storm events and possible explanations 
-  From the dataset of storm events records for the East Coast in period of 1980 to 2021, using R, the data were aggregated into table that shows the number of events occurred in each state, for each year and another table for every month of every year during the study period. The following interactive graph shows the number of storm events for each month of every year during the study period:![figure 1 Event per month](event_per_month.html)
+  From the dataset of storm events records for the East Coast in period of 1980 to 2021, using R, the data were aggregated into table that shows the number of events occurred in each state, for each year and another table for every month of every year during the study period. The following interactive graph shows the number of storm events for each month of every year during the study period:![figure 1 Event per month](assets/event_per_month.html)
 
   Based on this visualization, it can be observed that the months with the highest frequency of storm events are June and July, with June being the higher of the two months. Additionally, the latter half of the year tends to have more occurrence of storm events compared to the first half.  
   The data related to the number of events according to states is visualized in the following interactive map and graph:
