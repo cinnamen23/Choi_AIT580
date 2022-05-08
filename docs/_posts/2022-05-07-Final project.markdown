@@ -71,7 +71,6 @@ The dataset was extracted from the original Storm Event Bulk Data in NOAA’s St
   The data related to the number of events according to states is visualized in the following interactive map and graph:
   <iframe src="assets/map.html" height="600px" width="100%" style="border:none;"></iframe>
 
-  ![figure 3 Event count state wrap plot](assets/Event_count_state_wrap_plot.jpeg)
 
   In this visualization, a steady increase trend is observed in the of number of storm event occurrence in each state, with the number of storm events rising as time progresses. However, this rate of increase is not constant, a sudden increase in number of events is observed in the plot for Florida, Georgia, New York, North Carolina, and Virginia around the year 1995. Using k-means clustering technique with k = 2, it is evident that the number of events according to year separates into 2 distinct clusters.
   ![figure 4 Scatter k mean](assets/scatter_k_mean_Q1.jpeg)
