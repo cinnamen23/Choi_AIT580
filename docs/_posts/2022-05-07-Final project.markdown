@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "AIT580 Projetct"
-Author: Tuan Nguyen, Seunggyu Choi
+title:  "Analysis of Storm Event Data for the East Coast (1980-2021)"
+author: "Tuan Nguyen, Seunggyu Choi"
 categories: jekyll update
 
 ---
+<p>
+  Written by : <a href="https://github.com/NTuanNguyen/Nguyen_AIT580/blob/main/README.MD" target="_blank">Tuan Nguyen</a>, <a href="https://github.com/cinnamen23/Choi_AIT580/blob/main/README.md">Seunggyu Choi</a>
+</p>
 
 ## Introduction
 
@@ -104,6 +107,9 @@ The event types consisting of 51 different event types were reclassified into 7 
 ## Limitations
 
 Even though several analyzing techniques have been performed to answer the research questions, due to external factors such as time constraints, more complex analysis techniques with higher performance have yet to be implemented. Since weather data is a time series data type, specialized time series analysis models such as moving average, exponential smoothing, or the Autoregressive Integrated Moving Average (ARIMA) family models will perform better compared to general analysis technique and is able to gain deeper insights into the data set.  
+
+In some of the above graphs showing property and crop damage, the amount needs to be adjusted due to inflation over time. However, we could not apply it to the amount axis. These adjustments can help make the graph more feasible to understand.
+
 
 For future work, implementation of time series models, combining with external data from other sources would further improve the result of this analysis. 
 
