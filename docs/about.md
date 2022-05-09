@@ -4,27 +4,27 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  My name is Tuan Nguyen. I came from Vietnam. This is my 2nd semester at Mason and my major is Data Analytic Engineering. My previous major was Water Resources Engineering, and I had some experience working with weather data during my previous job.
+
+  My goal is to learn more about machine learning/deep learning and their application to apply them in the field of hydrology. I'm interested in studying the application of Neural Network in weather data forecasting.
+
+  I have experience with Excel models, VBA, C and I'm familiar with the basics in Python, SQL, and R.
+
+  It is a pleasure to meet you and I am looking forward to study this course.
+
+  My email: tnguy209@gmu.edu
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p class="message">
+  Hello, my name is seunggyu Choi from South Korea. Also, you guys can call me Simon. I am pursuing an MS data analytics degree; after acquiring my master's degree, I am planning to get a job in the data analytics field. My goal is to study practical skills that I can use in the hands-on field, handle large amounts of data, and discover insights through various tools.
 
-There are currently two themes built on Poole:
+  My major was industrial management, and it covered statistics, programming, industrial supply chain, etc., overall knowledge on the industrial field. And then, I had gotten training by concentrating on web programming education, and I did a project Advertising web site base on the MS cognitive program as my capstone project. https://www.youtube.com/watch?v=27WtJDR0-KM&t=86s (I am sorry, It was demonstrated by my home language )
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+  And then, I had an Internship in the US as an IT intern for one year; during that period, I cleaned data and set rules for getting coherent data from the field and visualization through Excel and VBA. I have experience about Java, Java script, SPSS, Node JS, Oracle, Mysql
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+  I am really glad to meet you guys all as a classmate. Thanks for spending your time to read my introduction!
 
-## Setup
+  Email : Schoi61@gmu.ede 
+</p>
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
