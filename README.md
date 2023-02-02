@@ -15,4 +15,3 @@ Thanks for spending your time to read my introduction!
 
 
 Email : Schoi61@gmu.ede
-Phone : 571-319-3009
